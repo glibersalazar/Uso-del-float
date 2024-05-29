@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+
+.contenedor{
+    background-color: blueviolet;
+    width: 920px;
+    height: 800px;
+    margin: auto;
+}
+.uno{
+    background-color: rgb(255, 0, 0);
+    width: 900px;
+    height: 100px;
+    float: left;
+    
+}
+.dos{
+    background-color: rgb(0, 38, 255);
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.tres{
+    background-color: rgb(238, 255, 0);
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.cuatro{
+    background-color: rgb(255, 0, 200);
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.cinco{
+    background-color: rgb(0, 255, 13);
+    width: 900px;
+    height: 70px;
+    float: left;
+
+}
+.divisor{
+    clear: both;
+}
